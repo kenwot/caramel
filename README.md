@@ -1,0 +1,2 @@
+# caramel
+Carefree Framework Library
